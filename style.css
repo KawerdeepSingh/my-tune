@@ -141,6 +141,7 @@ background-image: url(hero_image.png);
   text-align: center;
 }
 .video-section .container {
+  color: black;
   display: flex;
   flex-direction: column;
   gap: 30px;
